@@ -143,4 +143,8 @@ cursor: pointer;
     .apresentacao__conteudo{
         width: auto;
     }
+    .foto{
+        width: 80%;
+        height: auto;
+    }
 }
